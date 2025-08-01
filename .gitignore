@@ -3,3 +3,7 @@ Tools/piksel/_version.py
 */.ipynb_checkpoints/*
 .tif
 *.tif
+.venv
+Case_Studies/data/trainin_revised.geojson
+Case_Studies/data/interim/*.*
+*.aux.xml

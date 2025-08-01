@@ -13,6 +13,12 @@ keywords = ["data"]
 dependencies = [
     "hatchling==1.27.0",
     "hatch-vcs==0.5.0",
+    "pip>=25.1.1",
+    "ipython>=9.4.0",
+    "datacube>=1.9.6",
+    "dask[distributed]>=2025.7.0",
+    "psycopg-binary>=3.2.9",
+    "psycopg2-binary>=2.9.10",
 ]
 
 [project.optional-dependencies]
